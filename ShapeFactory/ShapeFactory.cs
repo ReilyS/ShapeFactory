@@ -1,7 +1,8 @@
 ﻿/*  Author: Reily Stanford
  *  Date: 09/04/2020
  *  File: ShapeFactory.cs
- *  Description: This file houses the ShapeFactory class and ShapeType enum. The Sh
+ *  Description: This file houses the ShapeFactory class and ShapeType enum. The ShapeFactory class
+ *      has a public function getShape that returns a Shape corresponding to the number given the parameters
  */
 
 using System;
